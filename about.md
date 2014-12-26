@@ -4,10 +4,17 @@ title: Ankit Kulkarni
 categories: aboutme
 permalink: /aboutme/
 ---
+***"I code because I love too, not because I have too"***
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am [Ankit Kulkarni]() an MCA final year student. I belong to India. Currently I am pursuing my masters from [International Insitute of Professional Studies - Devi Ahilya University Indore]() (expected 2015).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I have been working as a Team leader in [Development Center - IIPS ]() for past 1 year on variety of e-governance and some inhouse projects . Heads up to my [projects]() list.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-This is edited in aboutme file.
+Yeah! I am an open source lover and an advocate who loves the way open source works. If you find me interesting, lets [get in touch]()(@ankitkul1890).
+
+**Key people who inspired and mentored me :** [Shaligram Prajapat]() and [Amber Jain](). 
+
+**Students I mentored in past :** - [Swati Jaiswal]() and [Pulkit Vaishnav]()
+
+Find me at - [Github](), [LinkedIn](), [Google+](), [Twitter](), [Facebook]()
+
