@@ -1,0 +1,12 @@
+# Site settings
+title: "Codelife - Blog"
+email: ankit.kul1890@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Lets do something. Lets learn together.Keep learning , Keep sharing.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ankit-kulkarni.github.io" # the base hostname & protocol for your site
+twitter_username: ankitkul1890
+github_username:  Ankit-Kulkarni
+
+# Build settings
+markdown: kramdown
