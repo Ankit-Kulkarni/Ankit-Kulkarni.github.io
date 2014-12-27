@@ -45,4 +45,4 @@ Last but not the least
 
 Interested to see the gist of post graphically . Head over to this post [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) and I hope you will relate it with this "[why you should write a blog]({{page.url}})" post.
 
-
+<hr>
