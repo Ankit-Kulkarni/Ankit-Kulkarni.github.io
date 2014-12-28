@@ -6,7 +6,7 @@ permalink: /aboutme/teaching.html
 ---
 #Teaching
 
-This section needs a special mention for my key mentor [Shaligram Prajapat](https://sites.google.com/site/shaligramiipsdavvindore/) and friend cum mentor [Amber Jain](http://amberja.in/). And last but not the least *my parents*, my best friend [Arpit Bhawar](http://goo.gl/FT0Tm9) and all other friends, people who directly or indirectly have were a part of my learning.
+This section needs a special mention for my key mentor [Shaligram Prajapat](https://sites.google.com/site/shaligramiipsdavvindore/). And last but not the least *my parents*, my best friend [Arpit Bhawar](http://goo.gl/FT0Tm9) and all other friends, people who directly or indirectly have were a part of my learning.
 
 **Workshops Conducted:**
 
@@ -26,9 +26,9 @@ This section needs a special mention for my key mentor [Shaligram Prajapat](http
 
 **Presentations I gave at [Development Center - IIPS ](http://iips.edu.in/dc_website/index.php):**
 
-* Introduction to Machine learning [PDF]()
-* How to start on things [PDF]()
-* Introduction to Github and version control systems [Github]()
+* Introduction to Machine learning [PDF](https://drive.google.com/file/d/0B9Wf2ueFSE67Nm9VdEFJU1gwWlE/view?usp=sharing)
+* How to start on things [PPT](https://docs.google.com/presentation/d/1I-ioTDhMrEVgK6w9UdD2X8-ICqPr8BSpIZ310jLABWM/pub?start=true&loop=false&delayms=3000)
+* Introduction to Github and version control systems [Github](https://github.com/Ankit-Kulkarni/github-tutorial)
 * BOF session on Regex 
 
 <hr>
