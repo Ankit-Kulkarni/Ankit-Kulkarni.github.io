@@ -10,6 +10,8 @@ permalink: /aboutme/projects.html
 
 My [Github](https://github.com/Ankit-Kulkarni/)
 
+Recent small hacks [rails-zipper](http://162.243.236.194:3000/), [udacity-webapp](http://codelife.in/udacity-webapp/), [Facebook-sso](http://codelife.in/facebook-sso/)  demos hosted at [codelife.in](http://codelife.in) 
+
 Following is the list of [projects]({{page.url}}) in which I was among the key contributers. 
 
 * **[IIPS-DAVV Website](http://iips.edu.in/)** : The mobile responsive website of the institute from which I did my masters, using  LAMP stack,PHP, mysql, Ajax,twitter bootstrap, knockout.js.
