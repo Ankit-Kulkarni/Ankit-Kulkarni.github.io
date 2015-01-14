@@ -8,7 +8,7 @@ permalink: /aboutme/
 
 ***"I code because I love too, not because I have too"***
 
-I am [Ankit Kulkarni]({{page.url}}) a passionate guy who belongs to India. Currently I am pursuing my masters from [IIPS](http://iips.edu.in) (expected 2015).
+I am [Ankit Kulkarni]({{page.url}}) a technology passionate guy from India. Currently I am intern at [TinyOwl](http://www.tinyowl.co.in/) in the DevOps team .I am enrolled in Master of Computer Application program at [IIPS](http://iips.edu.in) (expected 2015). 
 
 I have been working as a Team leader in [Development Center - IIPS ](http://iips.edu.in/dc_website/index.php) for past 1 year on variety of e-governance and some inhouse projects .Heads up to my [projects]({{ page.url }}projects.html) list.
 
