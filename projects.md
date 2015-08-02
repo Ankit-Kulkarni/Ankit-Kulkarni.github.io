@@ -12,9 +12,12 @@ permalink: /aboutme/projects.html
 
 My [Github](https://github.com/Ankit-Kulkarni/) 
 
-**[Consulbacks3](https://pypi.python.org/pypi/consulbacks3)** - A package to take consul key value pair backup and put it on s3 . Available live at pypi [consulbacks3](https://pypi.python.org/pypi/consulbacks3) 
 
-Some old small hacks [rails-zipper](http://zipper.noip.me), [udacity-webapp](http://udacitywebapp.noip.me/) .
+Some old small hacks [rails-zipper](http://zipper.noip.me), [udacity-webapp](http://udacitywebapp.noip.me/) (incomplete yet ) .
+
+Packages I have built :  
+
+* **[Consulbacks3](https://pypi.python.org/pypi/consulbacks3)** - A package to take consul key value pair backup and put it on s3 . Available live at pypi [consulbacks3](https://pypi.python.org/pypi/consulbacks3) 
 
 Following is the list of [projects]({{page.url}}) in which I was among the key contributers. 
 
