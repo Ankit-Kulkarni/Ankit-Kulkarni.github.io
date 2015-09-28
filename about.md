@@ -8,9 +8,9 @@ permalink: /aboutme/
 
 ***"I code because I love too, not because I have too"***
 
-I am [Ankit Kulkarni]({{page.url}}) a technology passionate guy from India. Currently I am working at [TinyOwl](http://www.tinyowl.com/) in the DevOps team .I am enrolled in Master of Computer Application program at [IIPS](http://iips.edu.in) (expected 2015). 
+I am [Ankit Kulkarni]({{page.url}}) a tech passionate guy from India. Currently I am working as Devops Engineer at [Zaya Learning Labs](http://www.zaya.in/) .My previous work includes working with [TinyOwl](http://www.tinyowl.com/) as a DevOps Engineer .I have done Master of Computer Application(MCA) from International Institute of Professional Studies ( [IIPS](http://iips.edu.in) , [DAVV](http://www.dauniv.ac.in/) ) . 
 
-I have been working as a Team leader in [Development Center - IIPS ](http://iips.edu.in/dc_website/index.php) for past 1 year on variety of e-governance and some inhouse projects .Heads up to my [projects]({{ page.url }}projects.html) list.
+During college time I have worked as a Team leader in [Development Center - IIPS ](http://iips.edu.in/dc_website/index.php) from 2014-2015 on variety of e-governance and some inhouse projects .Heads up to my [projects]({{ page.url }}projects.html) list.
 
 Yeah! I am an open source lover and a strong advocate of the philosophy that drives the way open source works. If you find me interesting enough, lets [get in touch](https://twitter.com/AnkitKul1890)(@ankitkul1890).
 
