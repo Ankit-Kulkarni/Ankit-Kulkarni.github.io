@@ -4,7 +4,9 @@ title: Ankit Kulkarni | Publications
 categories: aboutme
 permalink: /aboutme/publications.html
 ---
-#Publications
+
+Publications
+=============
 
 **Following is the list of research publications.**
 
