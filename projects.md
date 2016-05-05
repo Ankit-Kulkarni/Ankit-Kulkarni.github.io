@@ -4,7 +4,9 @@ title: Ankit Kulkarni | Projects
 categories: aboutme
 permalink: /aboutme/projects.html
 ---
-#Projects 
+
+Projects 
+========
 
 ***Nothing worthwhile comes easily. Work, continuous work and hard work, is the only way to accomplish results that last.*** - *Steve Jobs*
 
