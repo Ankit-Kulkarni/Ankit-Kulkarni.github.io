@@ -5,7 +5,7 @@ categories: aboutme
 permalink: /aboutme/
 ---
 
-#About me
+
 
 ***"I code because I love too, not because I have too"***
 
