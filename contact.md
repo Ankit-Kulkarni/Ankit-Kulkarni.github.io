@@ -4,7 +4,9 @@ title: Ankit Kulkarni | Contact
 categories: aboutme
 permalink: /aboutme/contact.html
 ---
-#Contact
+
+Contact
+=======
 
 You can contact me at
 
