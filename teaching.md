@@ -4,7 +4,9 @@ title: Ankit Kulkarni | Teaching
 categories: aboutme
 permalink: /aboutme/teaching.html
 ---
-#Teaching
+
+Teaching
+========
 
 This section needs a special mention for my key mentor [Shaligram Prajapat](https://sites.google.com/site/shaligramiipsdavvindore/). And last but not the least *my parents*, my best friend [Arpit Bhawar](http://goo.gl/FT0Tm9) and all other friends, people who directly or indirectly have were a part of my learning.
 
