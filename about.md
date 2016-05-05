@@ -18,5 +18,5 @@ Yeah! I am an open source lover and a strong advocate of the philosophy that dri
 
 **Students I mentored in Year 2014 :** - [Swati Jaiswal](http://swati-jaiswal.github.io/) and [Pulkit Vaishnav](https://github.com/pulkitvaishnav/)
 
-Find me at - [Github](https://github.com/Ankit-Kulkarni/), [LinkedIn](http://in.linkedin.com/pub/ankit-kulkarni/3b/455/552/), [Stackoverflow](http://stackoverflow.com/users/2397396/ankit-kulkarni), [Google+](https://plus.google.com/+AnkitKulkarni1/posts), [Twitter](https://twitter.com/AnkitKul1890), [Facebook](https://www.facebook.com/ankitkul1890)
-
+Find me at - [Github](https://github.com/Ankit-Kulkarni/), [LinkedIn](http://in.linkedin.com/pub/ankit-kulkarni/3b/455/552/), [Stackoverflow](http://stackoverflow.com/users/2397396/ankit-kulkarni), [Google+](https://plus.google.com/+AnkitKulkarni1/posts), [Twitter](https://twitter.com/AnkitKul1890), [Facebook](https://www.facebook.com/ankitkul1890)<br>
+This site is rendered via Jekyll hosted by GitHub pages and protected behind CloudFlare
