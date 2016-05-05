@@ -4,7 +4,9 @@ title: Ankit Kulkarni | Resume
 categories: aboutme
 permalink: /aboutme/resume.html
 ---
-#Resume
+
+Resume
+=======
 
 Here is my resume in [PDF]({{ site.url }}/downloads/docs/Ankit_Kulkarni_Resume.pdf) format.
 
