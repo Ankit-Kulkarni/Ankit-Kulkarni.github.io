@@ -7,7 +7,7 @@ page_title: Ankit Kulkarni
 ---
 
 
- **" I code becuase I love to, not because I have too "**
+ **" I code becuase I love to, not because I have to "**
 
 Hi I am Ankit Kulkarni . 
 
