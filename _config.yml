@@ -1,0 +1,103 @@
+# Configurations
+# markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+# markdown_ext:  markdown,mkdown,mkdn,mkd,md
+highlighter: pygments
+
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+
+# Needed for backward compatibility
+gems: [jekyll-paginate]
+
+# Permalinks
+permalink:        /blog/:year/:month/:day/:title
+
+# Setup
+title:            "Ankit Kulkarni"
+# tagline:          'This is not WINDOWS'
+description:      'Ankit Kulkarni | personal website and blog | Devops Engineer, Codelover, Linux is love'
+# url:              'http://localhost:4000'
+# baseurl:          'http://i.ankul.in'
+
+# Navigation
+navigation:
+- text: About
+  url: /aboutme/
+- text: Projects
+  url: /projects/
+- text: Publications
+  url: /publications/
+- text: Resume
+  url: /resume/
+- text: More
+  url: /misc/
+- text: Blog
+  url: /blog/
+- text: Tags
+  url: /tags/
+- text: Archive
+  url : /archive/
+- text: Search
+  url: /search/
+
+# menu links 
+about: /aboutme/
+resume: /resume/
+blog: /blog/
+alltags: /tags/
+archive: /archive/
+search: /search/
+projects: /projects/
+publications: /publications/
+more: /misc/
+
+# Author Details
+author:         'Ankit Kulkarni'
+
+# Timezone 
+TZ: Asia/Kolkata
+
+#Social Media links (Use complete URL except for email)
+dribbble:
+email:
+facebook:       'https://www.facebook.com/ankitkul1890'
+flickr:
+github:         'https://github.com/Ankit-Kulkarni'
+gplus:          'https://plus.google.com/u/1/+AnkitKulkarni1'
+instagram:
+pinterest:
+linkedin:       'https://www.linkedin.com/in/ankitkulkarni'
+rss:
+stackoverflow:  'http://stackexchange.com/users/2785998/ankit-kulkarni'
+twitter:        'https://twitter.com/ankitkul1890'
+
+# Google Analytics
+gahandler: 'UA-58034443-1'
+
+#if footersvg is 'true' the social media links will be shown top on the copy right in the footer
+footersvg: 'true'
+
+# Disqus
+disqushandler: 'freetimeseeker'
+
+# Blog Configurations
+paginate: 10 # Posts per page on the blog index
+paginate_path: '/blog/page:num'
+destination: ./_site
+
+# Custom vars
+version:          0.9x beta 2
+
+
+# defaults: 
+#   - 
+#     scope: 
+#         path: ""
+#         scope: "posts"
+#     values: 
+#         layout: master
+#         bloghome: true
