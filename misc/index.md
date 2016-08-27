@@ -21,7 +21,7 @@ page_title: More about me
 
 * Have mentored 2 students [Swati Jaiswal](http://swatij.me/mentors/Ankit-kulkarni/to-the-mentor/") and [Pulkit Vaishnav](https://github.com/pulkitvaishnav/) in year 2014 for 6 months. I must say you should look in [Swati's blog](http://swatij.me)
 
-*Here is something they wrote about me. "[To the mentor](http://swati-jaiswal.github.io/mentors/Ankit-kulkarni/to-the-mentor/)"*.
+*Here is something they wrote about me. "[To the mentor](http://swatij.me/mentors/Ankit-kulkarni/to-the-mentor/)"*.
 
 
 <hr>
