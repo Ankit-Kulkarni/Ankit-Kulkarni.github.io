@@ -21,7 +21,7 @@ I love to explore new technologies, tools, reading blogs(mostly about startups a
 
 **What I don't like is to mess/code with frontend (HTML/CSS/JS ---eww so scary, still I end up messing with it everytime )**
 
-I have been  a great fan of [blogging]() but honestly too lazy to maintain my own blog . I hope I could make it active sooner around Mid of April 2017 on [medium @ankit.kul1890](https://medium.com/@ankit.kul1890) . I am also soon planning to share my reading list of curated articles, [books @goodread](https://www.goodreads.com/user/show/44478379-ankit-kulkarni).
+I have been  a great fan of [blogging]() but honestly too lazy to maintain my own blog . I hope I could make it active sooner around Mid of April 2017 on [medium @ankit.kulkarni](https://medium.com/@ankit.kulkarni) . I am also soon planning to share my reading list of curated articles, [books @goodread](https://www.goodreads.com/user/show/44478379-ankit-kulkarni).
 
 **PS**: BTW here's a an interesting take away since you landed here - [BOFH reading list ](http://www.theregister.co.uk/data_centre/bofh/)  ( if you are into love with systems you will enjoy reading it)
 
