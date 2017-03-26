@@ -16,7 +16,7 @@ title:            "Ankit Kulkarni"
 # tagline:          'This is not WINDOWS'
 description:      'Ankit Kulkarni | personal website and blog | Devops Engineer, Codelover, Linux is love'
 # url:              'http://localhost:4000'
-# baseurl:          'http://i.ankul.in'
+baseurl:          ''
 
 # Navigation
 navigation:
