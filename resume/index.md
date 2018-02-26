@@ -6,7 +6,7 @@ theme: purple
 page_title: Resume
 ---
 
-Here is my resume in [PDF]({{ site.url }}/downloads/docs/Ankit_Kulkarni_Resume.pdf) format.
+Here is my resume in [PDF](https://drive.google.com/open?id=1oOUPhcWr9Fc4GhzFcG7f-MljtKVGJIWt) format.
 
 My [Github](https://github.com/Ankit-Kulkarni/), [LinkedIn](http://in.linkedin.com/pub/ankit-kulkarni/3b/455/552/), [Stackoverflow](http://stackoverflow.com/users/2397396/ankit-kulkarni)
 
