@@ -9,7 +9,7 @@ page_title: Publications
 
 **Following is the list of research publications.**
 
-* **DC model for quality improvement in technical education** in **[IEEE MITE 2014](http://ieeemite2014.com/)** : The paper is in the direction of formalization and standardization of improving skills of students in DC(like a plugin/extension to current educational system).The proposed model is an add-on and a self learning oriented system where the focus is on to improve personalized technical skills.The paper discussed the methodology ,components, results and impact on members involved in DC after finishing their course work . The work would be available on IEEE Xplore with Part Number: CFP1474W-USB , ISBN: 978-1-4799-8224-0 and acquisition Letter dated 06 Aug 2014.
+* **DC model for quality improvement in technical education** in **[IEEE MITE 2014](https://ieeexplore.ieee.org/document/7020293/)** : The paper is in the direction of formalization and standardization of improving skills of students in DC(like a plugin/extension to current educational system).The proposed model is an add-on and a self learning oriented system where the focus is on to improve personalized technical skills.The paper discussed the methodology ,components, results and impact on members involved in DC after finishing their course work . The work would be available on IEEE Xplore with Part Number: CFP1474W-USB , ISBN: 978-1-4799-8224-0 and acquisition Letter dated 06 Aug 2014.
 
 **Date**: *19 December 2014*
 
