@@ -8,14 +8,24 @@ page_title: Resume
 
 Here is my resume in [PDF](https://drive.google.com/open?id=1oOUPhcWr9Fc4GhzFcG7f-MljtKVGJIWt) format.
 
-My [Github](https://github.com/Ankit-Kulkarni/), [LinkedIn](http://in.linkedin.com/pub/ankit-kulkarni/3b/455/552/), [Stackoverflow](http://stackoverflow.com/users/2397396/ankit-kulkarni)
+My [Github](https://github.com/Ankit-Kulkarni/), [LinkedIn](http://in.linkedin.com/pub/ankit-kulkarni/3b/455/552/), [Stackoverflow](http://stackoverflow.com/users/2397396/ankit-kulkarni), [Goodreads](https://www.goodreads.com/user/show/44478379-ankit-kulkarni)
 
 **Experience:**
 
-* Currently working as Devops Eng [@Zaya Learning labs](http://zaya.in/) Mumbai (MH) , India . Responsible for the cloud infrastructure and classcloud product(infrastructure, configurations, automation, security, distributed deployments, performance enhancements and optimizations, monitoring ) .I am using [Ansible](https://www.ansible.com/) for most of stuff.  Classcloud is a small device (almost like a router ) over which children can connect via thin clients and take benefit of blended e-learning. More information about product at Website([http://zaya.in](http://zaya.in)) . *The added benefit I earn here is the smile on the faces of kids (education matters a lot )*
+* Currently I am on break as well as freelancing/consulting and at the same time looking for right opportunity. 
+<hr>
 
-* ​DevOps Eng [@Tinyowl](https://runnr.in/), Mumbai (MH) , India (acquired by [runnr](https://runnr.in/) now) ​from Jan 2015­-Sep 2015 . I was responsible for managing [AWS](https://aws.amazon.com/) cloud infrastructure , automation/scripting of day to day tasks, installations & configuration of prod/test env([ROR](http://rubyonrails.org/),[redis](http://redis.io/),[postgres](https://www.postgresql.org/),[mongo](https://www.mongodb.com/),[elk](https://www.elastic.co/webinars/introduction-elk-stack),[jenkins](https://jenkins.io/)), automation for developer environment. I  was using [Chef(opscode)](https://www.chef.io/chef/) to automate our infrastructure and [senu](https://sensuapp.org/) for monitoring. Also got a chance to explore [docker] and a lot more .
+* Recently I did a contract work for a month for startup named [superheroic](https://superheroic.com/) from [playground](http://playground.global/team/crew) for a product [playheroic](http://playheroic.com/). 
+  - The work involved automating the , provisioning, configuration and deployments for the apps and serivces with monitoring and alerting. 
+<hr>
+* I worked as a single Devops Eng [@Zaya Learning labs](http://zaya.in/) Mumbai (MH) , India. 
+  - At Zaya its been an amazing journey of almost 3 years where I spent most of my time writing code and building services for classcloud/schoolwifi. At Zaya, I was responsible for the cloud infrastructure(AWS+ AZURE) ,classcloud and schoolwifi product(infrastructure, configurations, automation, security, distributed deployments, performance enhancements and optimizations, monitoring, reliablility). I used [Ansible](https://www.ansible.com/) and python for most of stuff.  [Classcloud/Schoolwifi](http://classcloud.zaya.in/) is a small wifi device (almost like a router ) over which children can connect via tablets/computers/phones and take benefit of blended e-learning solution developed @zaya. More information about product can be found at Website([http://zaya.in](http://zaya.in)) . *The added benefit I earned here is the smile on the faces of kids (Education matters.)*
 
+<hr>
+* ​DevOps Eng [@Tinyowl](https://runnr.in/), Mumbai (MH) , India (acquired by [runnr](https://runnr.in/) now) ​from Jan 2015­-Sep 2015 . 
+  - I was responsible for managing [AWS](https://aws.amazon.com/) cloud infrastructure , automation/scripting of day to day tasks, installations & configuration of prod/test env([ROR](http://rubyonrails.org/),[redis](http://redis.io/),[postgres](https://www.postgresql.org/),[mongo](https://www.mongodb.com/),[elk](https://www.elastic.co/webinars/introduction-elk-stack),[jenkins](https://jenkins.io/)), automation for developer environment. I  was using [Chef(opscode)](https://www.chef.io/chef/) to automate our infrastructure and [senu](https://sensuapp.org/) for monitoring. Also got a chance to explore [docker] and a lot more .
+
+<hr>
 * *System Administrator, developer, team leader* of inhouse projects at [[Development Center](http://iips.edu.in/development_center.php) - IIPS from November 2013- December 2015 .
 
 

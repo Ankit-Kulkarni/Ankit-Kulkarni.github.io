@@ -1,12 +1,15 @@
 # Configurations
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
-# highlighter: pygments
+#highlighter: pygments.rb
 
 future: true
 
 # Needed for backward compatibility
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
+# now gems is replaced with plugins 
+
+plugins: [jekyll-paginate]
 
 # Permalinks
 permalink:        /blog/:year/:month/:day/:title
