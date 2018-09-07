@@ -33,12 +33,36 @@
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/magnific-popup.css">
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/controls.css">
 
+
   <script src="/assets/js/jquery.min.js"></script>
   <script src="/assets/js/bootstrap.min.js"></script>
   <script src="/assets/js/jekyll-search.js"></script>
   <script src="/assets/js/jquery.magnific-popup.min.js"></script>
   <script src="/assets/js/app.js"></script>
 
+  <style>
+  .loader {
+    border: 10px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 10px solid #3498db;
+    margin: 0 auto;
+    width: 60px;
+    height: 60px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+  }
+
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  </style>
   {% if page.title == "Home" %}
   <!-- Add background-image -->
     <script>

@@ -99,3 +99,13 @@
 .icon-m:before {
     content: "\e902";
 }
+.icon-medium:before {
+    content: "\e903";
+}
+.icon-goodreads:before {
+    content: "\e904";
+}
+.icon-readlist:before {
+    content: "\e905";
+}
+

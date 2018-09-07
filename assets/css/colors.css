@@ -26,6 +26,12 @@
     border: 1px solid #185A37;
 }
 
+.drk-pub {
+    background: #4f695b;
+    border: 1px solid #185A37;
+    color: white;
+}
+
 .magenta {
     background: #ff0097
     border: 1px solid #CC0079;

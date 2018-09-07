@@ -41,6 +41,8 @@ navigation:
   url : /archive/
 - text: Search
   url: /search/
+- text: Reading List
+  url: /readlist/
 
 # menu links 
 about: /aboutme/
@@ -52,6 +54,7 @@ search: /search/
 projects: /projects/
 publications: /publications/
 more: /misc/
+readlist: /readlist/
 
 # Author Details
 author:         'Ankit Kulkarni'
@@ -72,6 +75,8 @@ linkedin:       'https://www.linkedin.com/in/ankitkulkarni'
 rss:
 stackoverflow:  'http://stackexchange.com/users/2785998/ankit-kulkarni'
 twitter:        'https://twitter.com/ankitkul1890'
+medium:         'https://medium.com/@ankit.kulkarni'
+goodreads:      'https://www.goodreads.com/user/show/44478379-ankit-kulkarni'
 
 # Google Analytics
 gahandler: 'UA-58034443-1'
