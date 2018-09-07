@@ -98,7 +98,6 @@ function success(response) {
         var trelloList = response[i];
         var section_title="<h3>" + trelloList["name"] + "</h3>";
         html_ += "<div id=sec-"+ i +"> "+ section_title+ "  <ul>  " ;
-        console.log(trelloList["name"]);
         trelloListCardLen = trelloList["cards"].length;
         if (trelloListCardLen >= 1) {
             for (j = 0; j < trelloListCardLen; j++) {
@@ -113,14 +112,10 @@ function success(response) {
                 }
             }
         } else {
-            console.log("no");
+            console.log("No cards found in a list");
         }
-    
-    
-    
     html_ += "</ul> </div>"
     }
-console.log(html_);
 $("#readlist").removeClass("loader");
 $("#readlist").html(html_);
 }
